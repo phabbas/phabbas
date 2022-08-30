@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @phabbas
+- 👋 Hi, I’m Paul!
 - 👀 I’m interested in genetics, biology, plants and the cosmos
 - 🌱 I’m currently learning bioinformatics
 - 💞️ I’m looking to collaborate on bioinformatics projects and stem cell therapies
